@@ -1,0 +1,31 @@
+streamlit>=1.33
+pandas>=2.0
+numpy>=1.24
+requests>=2.31
+plotly>=5.18
+
+# Speech-to-Text и обработка аудио
+openai>=1.0
+google-cloud-speech>=2.20
+pydub>=0.25.1
+librosa>=0.10.0
+
+# NLP и Sentiment Analysis
+transformers>=4.30
+torch>=2.0
+nltk>=3.8
+textblob>=0.17.1
+
+# Обработка файлов
+python-dotenv>=1.0
+pyyaml>=6.0
+
+# Database (опционально)
+sqlalchemy>=2.0
+psycopg2-binary>=2.9
+
+# Логирование
+loguru>=0.7.0
+
+# API интеграции
+aiohttp>=3.8
